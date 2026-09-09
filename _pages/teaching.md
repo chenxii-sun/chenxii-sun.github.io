@@ -129,14 +129,16 @@ description: ""
 
 /* Teaching evaluation */
 .course-evaluation {
-  margin-top: 0.45rem;
-  font-size: 0.86rem;
-  color: var(--teaching-text-light);
+  margin-top: 0.55rem;
+  font-size: 1rem;
+  color: var(--teaching-purple);
+  font-weight: 600;
 }
 
 .course-evaluation strong {
   color: var(--teaching-purple);
-  font-weight: 700;
+  font-weight: 800;
+  font-size: 1.08rem;
 }
 /* Internal service */
 .service-section {
