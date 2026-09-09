@@ -387,7 +387,7 @@ description: ""
     <div class="service-info">
 
       <div class="service-role">
-        Seminar Coordinator
+        Studen Seminar Coordinator
       </div>
 
       <div class="service-unit">
@@ -397,7 +397,7 @@ description: ""
     </div>
 
     <div class="term-badge">
-      2025–2027
+      2026
     </div>
 
   </div>
