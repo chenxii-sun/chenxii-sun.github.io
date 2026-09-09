@@ -165,17 +165,28 @@ Minor revision at <em>Operations Research</em>
 </div>
 
 <div class="paper-buttons">
-<a class="paper-button" href="#">PDF</a>
+<a class="paper-button"
+   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5038327"
+   target="_blank">
+  SSRN
+</a>
 </div>
 
 <details class="research-details">
 <summary>Research details</summary>
 
 <p>
-We study a remanufacturing inventory system in which product returns
-depend on historical demand. We characterize the structure of effective
-inventory policies and develop tractable approximations.
+We study an infinite-horizon periodic-review remanufacturing inventory system with random demand and product return. 
+The quantity of returned products each period depends on the historical demands following a distributed lag model.  
+A firm operating the system remanufactures product returns into a serviceable product to fulfill customer demand. When needed, the serviceable product can also be manufactured/ordered. Manufacturing and remanufacturing have different lead times. The firm decides manufacturing quantity each period in order to minimize the expected long-run average cost of inventory holding, demand backlogging, and manufacturing.  
+We first establish the existence of stationary optimal policy under the long-run average cost criterion using the vanishing discount factor approach together with a coupling argument. 
+Via state space reduction, we further prove that the optimal policy is a forecast-adjusted base-stock (FABS) policy when the maximum return lag is shorter than the manufacturing lead time. 
+When the maximum return lag is longer than the manufacturing lead time, the optimal policy becomes state-dependent base-stock policy. For the latter case, we show that the FABS policy becomes asymptotically optimal as the unit backlogging cost becomes large.
+We further develop simple approximate base-stock levels for implementing the FABS policy and numerically demonstrate their effectiveness. Our numerical results also illustrate that a FABS policy performs very well in general even when the backlogging cost is not very high; incorporating return forecast as a FABS policy can save the firm considerable cost; and the FABS policy developed under the distributed lag model still performs quite well even it mis-specifies the underlying return model. 
+Two extensions are further examined: one with random coefficients in the return model, and another with separate core inventory and remanufacturing decisions.
 </p>
+
+
 
 </details>
 
@@ -199,18 +210,21 @@ Under review at <em>Operations Research</em>
 </div>
 
 <div class="paper-buttons">
-<a class="paper-button" href="#">PDF</a>
+<a class="paper-button"
+   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7367439"
+   target="_blank">
+  SSRN
+</a>
 </div>
 
 <details class="research-details">
 <summary>Research details</summary>
 
 <p>
-We study base-stock policies in periodic-review inventory systems with
-stochastic lead times and order crossovers. We characterize conditions
-for exact optimality and establish asymptotic optimality as the
-backlogging penalty increases.
+We study periodic-review backlogging inventory systems with exogenous stochastic lead times. Although base-stock (BS) policies that maintain a constant inventory position are optimal when orders do not cross in transit, their performance under lead-time processes that permit crossover remains poorly understood. We provide new insights into the effectiveness of BS policies in such settings. First, we derive an upper bound on the optimality gap of a BS policy that explicitly captures the impact of order crossover. The bound implies that the BS policy is optimal when order crossover is absent or when demand is bounded and the unit backlogging cost is sufficiently large. Second, under a mild regularity condition, we establish the asymptotic optimality of the BS policy as the unit backlogging cost grows large. Third, we show that the difference between the optimality gaps of the optimal BS policy under stochastic and deterministic demand is bounded by a term proportional to the coefficient of variation of demand. Collectively, these results identify conditions under which BS policies remain effective in backlogging inventory systems with stochastic lead times.
 </p>
+
+
 
 </details>
 
@@ -248,7 +262,7 @@ Working paper
 <summary>Research details</summary>
 
 <p>
-Research description can be added here.
+We develop an analytical framework in which a firm sells a blind box, from which two horizontally differentiated items are randomly drawn. Two types of customers have different valuations for the two items. A customer gains an extra utility, called a set bonus, if she obtains a complete set of items; hence, she may repeat purchases until her expected utility is maximized. We study and compare the selling of blind boxes in two settings, with and without a secondary market. Without a secondary market, customers buy products from the firm only. With the secondary market, customers purchase products from the firm in the first period and then trade the items they have obtained in the second period. We prove that with the secondary market, the firm’s problem is equivalent to a principal-agent problem. We use a linear program and its dual problem to solve the secondary market equilibrium and the firm’s profit. We identify two effects of the secondary market: the growth effect and the incompatibility effect. The former is positive, but the latter is negative. Utilizing the growth effect and reducing the incompatibility effect are not always countervailing, especially when the set bonus is large. We find that the secondary market hurts the firm if and only if customers’ preferences are highly polarized, and the set bonus is positive but small. Our model can easily be extended to a general model in which the blind box includes multiple items. Our main insights still hold in the general model.
 </p>
 
 </details>
@@ -285,7 +299,7 @@ Work in progress
 <p>
 We study the operational decisions of a smallholder agricultural
 aggregator, including collection, processing, and selling decisions
-under supply, capacity, quality, and price uncertainty.
+under supply quality, and price uncertainty.
 </p>
 
 </details>
