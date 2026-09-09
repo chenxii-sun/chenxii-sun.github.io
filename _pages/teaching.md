@@ -303,10 +303,10 @@ description: ""
 
         </div>
 
-        <div class="course-evaluation">
-          Teaching evaluation:
-          <strong>5.43 / 6.00</strong>
-        </div>
+      <div class="course-evaluation">
+        Teaching evaluation:
+        <strong>5.43 / 6.00</strong>
+      </div>
 
       </div>
 
