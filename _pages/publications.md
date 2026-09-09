@@ -255,7 +255,11 @@ Working paper
 </div>
 
 <div class="paper-buttons">
-<a class="paper-button" href="#">PDF</a>
+<a class="paper-button"
+   href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284733"
+   target="_blank">
+  SSRN
+</a>
 </div>
 
 <details class="research-details">
