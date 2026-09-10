@@ -2,9 +2,8 @@
 layout: page
 title: Home
 permalink: /
-nav: true
-nav_order: 1
-description: "Chenxi Sun - PhD student in Operations Management at CUHK Business School"
+nav: false
+description: "Chenxi Sun (chenxi.sun@link.cuhk.edu.hk) - PhD student in Operations Management at CUHK Business School"
 ---
 
 <style>
@@ -194,7 +193,7 @@ description: "Chenxi Sun - PhD student in Operations Management at CUHK Business
         <span class="research-emphasis">operations–marketing interface</span>.
       </p>
 
-      </p>
+      <p>
         I'm happy to discuss related topics and open to potential collaborations.
         Feel free to reach out! I am on the 2026-2027 academic job market.
       </p> 
