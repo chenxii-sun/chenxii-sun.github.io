@@ -192,10 +192,13 @@ description: "Chenxi Sun - PhD student in Operations Management at CUHK Business
         <span class="research-emphasis">stochastic inventory theory and its applications</span>,
         and the
         <span class="research-emphasis">operations–marketing interface</span>.
-        I'm happy to discuss related topics and open to potential collaborations.
-        Feel free to reach out! I am on the 2026-2027 academic job market.
       </p>
 
+      </p>
+        I'm happy to discuss related topics and open to potential collaborations.
+        Feel free to reach out! I am on the 2026-2027 academic job market.
+      </p> 
+      
     </div>
 
 
