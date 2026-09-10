@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching&Service
+title: Teaching & Service
 permalink: /teaching/
 nav: true
 nav_order: 3
