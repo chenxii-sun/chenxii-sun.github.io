@@ -20,8 +20,8 @@ latest_posts:
   enabled: false
 ---
 
-I am a final-year PhD student in Operations Management at CUHK Business School, advised by Prof. Sean Zhou.
+I am a final-year PhD student in Operations Management at CUHK Business School, where I am extremely fortunate to be advised by Professor Sean Zhou. I have also benefited greatly from the guidance and mentorship of Professor Xiting Gong. Before joining CUHK, I received my bachelor's and master's degrees from the School of Information Management and Engineering at Shanghai University of Finance and Economics, where I was fortunate to be advised by Professor Chaolin Yang.
 
-My research interests are stochastic inventory theory and its applications and supply chain management. My current research studies inventory systems with stochastic lead times, remanufacturing inventory systems, and operations of smallholder agricultural aggregators.
+My research designs simple, implementable heuristic policies for complex operational problems whose optimal solutions are intractable or impractical to deploy, and establishes performance guarantees for these policies across different regimes. I am drawn to problems closely tied to everyday business practice, and I aim to provide solutions that firms can readily adopt while studying emerging business models.
 
-I received my Master's degree in Management Science and Engineering from Shanghai University of Finance and Economics.
+My research interests include inventory management, supply chain management, stochastic inventory theory and its applications, and the operations–marketing interface.
