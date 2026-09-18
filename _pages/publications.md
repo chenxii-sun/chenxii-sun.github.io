@@ -300,7 +300,7 @@ description: ""
     </div>
 
     <div class="paper-status">
-      Working paper
+      Preparing for submission
     </div>
 
     <div class="paper-buttons">
@@ -318,30 +318,13 @@ description: ""
       <summary>Research details</summary>
 
       <p>
-        We develop an analytical framework in which a firm sells a blind box,
-        from which two horizontally differentiated items are randomly drawn.
-        Two types of customers have different valuations for the two items.
-        A customer gains an extra utility, called a set bonus, if she obtains
-        a complete set of items; hence, she may repeat purchases until her
-        expected utility is maximized.
+        We develop an analytical model in which a firm chooses the price of a blind box and the probabilities of drawing either of two horizontally differentiated items. Customers have heterogeneous preferences and receive a set bonus from completing the collection. They may make repeated purchases and, when a sec- ondary market exists, anticipate subsequent trading opportunities. We characterize purchasing strategies and market equilibrium using optimal stopping and linear programming, and compare outcomes with and without a secondary market. 
       </p>
 
       <p>
-        We study and compare the selling of blind boxes in two settings, with
-        and without a secondary market. We prove that with the secondary market,
-        the firm's problem is equivalent to a principal-agent problem. We use
-        a linear program and its dual problem to solve the secondary-market
-        equilibrium and the firm's profit. We identify two effects of the
-        secondary market: the growth effect and the incompatibility effect.
-        The former is positive, whereas the latter is negative.
+It is widely believed that secondary markets help customers obtain preferred items and complete collections. However, we find that a secondary market reduces the firm’s profit if and only if customer preferences are highly polarized and the set bonus is positive but small. Despite improving allocation for a given supply, a secondary market can reduce both firm profit and social welfare. The firm may optimally raise its price and reduce sales, leaving fewer customers with complete collections. When the set bonus is sufficiently large, an optimal selling policy allows all customers to complete their collections and achieves maximum social welfare. These findings inform whether firms should facilitate secondary trading and how they can adjust pricing and product design in response to its presence.
       </p>
 
-      <p>
-        We find that the secondary market hurts the firm if and only if
-        customers' preferences are highly polarized and the set bonus is
-        positive but small. Our main insights continue to hold when the blind
-        box contains multiple items.
-      </p>
     </details>
 
   </div>
