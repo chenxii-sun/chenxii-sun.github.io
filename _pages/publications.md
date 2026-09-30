@@ -291,11 +291,11 @@ description: ""
     </div>
 
     <div class="paper-authors">
-      Chenxi Sun, Yinbo Feng, and Chaolin Yang
+      Yinbo Feng, Chenxi Sun, and Chaolin Yang
     </div>
 
     <div class="paper-status">
-      Submitted to Production and Operations Management
+      Submitted to <em>Production and Operations Management<em>
     </div>
 
     <div class="paper-buttons">
