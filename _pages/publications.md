@@ -281,11 +281,6 @@ description: ""
 </div>
 
 
-<div class="research-section">
-
-  <div class="research-heading">
-    Working Papers
-  </div>
 
   <div class="research-card">
 
@@ -300,7 +295,7 @@ description: ""
     </div>
 
     <div class="paper-status">
-      Preparing for submission
+      Submitted to Production and Operations Management
     </div>
 
     <div class="paper-buttons">
@@ -329,7 +324,7 @@ It is widely believed that secondary markets help customers obtain preferred ite
 
   </div>
 
-</div>
+
 
 
 <div class="research-section">
