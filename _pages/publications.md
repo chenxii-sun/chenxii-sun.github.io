@@ -147,13 +147,11 @@ description: ""
 }
 </style>
 
-
 <div class="research-section">
 
   <div class="research-heading">
     Papers Under Revision / Review
   </div>
-
 
   <div class="research-card">
 
@@ -222,7 +220,6 @@ description: ""
 
   </div>
 
-
   <div class="research-card">
 
     <div class="paper-tag">W2</div>
@@ -278,10 +275,6 @@ description: ""
 
   </div>
 
-</div>
-
-
-
   <div class="research-card">
 
     <div class="paper-tag">W3</div>
@@ -295,7 +288,7 @@ description: ""
     </div>
 
     <div class="paper-status">
-      Submitted to <em>Production and Operations Management<em>
+      Submitted to <em>Production and Operations Management</em>
     </div>
 
     <div class="paper-buttons">
@@ -313,19 +306,35 @@ description: ""
       <summary>Research details</summary>
 
       <p>
-        We develop an analytical model in which a firm chooses the price of a blind box and the probabilities of drawing either of two horizontally differentiated items. Customers have heterogeneous preferences and receive a set bonus from completing the collection. They may make repeated purchases and, when a sec- ondary market exists, anticipate subsequent trading opportunities. We characterize purchasing strategies and market equilibrium using optimal stopping and linear programming, and compare outcomes with and without a secondary market. 
+        We develop an analytical model in which a firm chooses the price of a
+        blind box and the probabilities of drawing either of two horizontally
+        differentiated items. Customers have heterogeneous preferences and
+        receive a set bonus from completing the collection. They may make
+        repeated purchases and, when a secondary market exists, anticipate
+        subsequent trading opportunities. We characterize purchasing strategies
+        and market equilibrium using optimal stopping and linear programming,
+        and compare outcomes with and without a secondary market.
       </p>
 
       <p>
-It is widely believed that secondary markets help customers obtain preferred items and complete collections. However, we find that a secondary market reduces the firm’s profit if and only if customer preferences are highly polarized and the set bonus is positive but small. Despite improving allocation for a given supply, a secondary market can reduce both firm profit and social welfare. The firm may optimally raise its price and reduce sales, leaving fewer customers with complete collections. When the set bonus is sufficiently large, an optimal selling policy allows all customers to complete their collections and achieves maximum social welfare. These findings inform whether firms should facilitate secondary trading and how they can adjust pricing and product design in response to its presence.
+        It is widely believed that secondary markets help customers obtain
+        preferred items and complete collections. However, we find that a
+        secondary market reduces the firm’s profit if and only if customer
+        preferences are highly polarized and the set bonus is positive but
+        small. Despite improving allocation for a given supply, a secondary
+        market can reduce both firm profit and social welfare. The firm may
+        optimally raise its price and reduce sales, leaving fewer customers
+        with complete collections. When the set bonus is sufficiently large,
+        an optimal selling policy allows all customers to complete their
+        collections and achieves maximum social welfare. These findings inform
+        whether firms should facilitate secondary trading and how they can
+        adjust pricing and product design in response to its presence.
       </p>
-
     </details>
 
   </div>
 
-
-
+</div>
 
 <div class="research-section">
 
