@@ -246,6 +246,12 @@ description: ""
       >
         SSRN
       </a>
+      <a class="paper-button"
+         href="https://bear-mart-inventory-arcade.festiveiguana4.chatgpt.site/"
+         target="_blank"
+         rel="noopener noreferrer">
+        Play the Inventory Game
+      </a>
     </div>
 
     <details class="research-details">
